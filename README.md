@@ -23,7 +23,7 @@ To test/install this app, the recommended way is to download it or clone/fork th
 
 Alternatively, you can test-run it from GitHub by installing it in the App Manager Dashboard - click Add Hosted App - by providing this URL:
 
-* [http://robnyman.github.io/Firefox-OS-Boilerplate-App/manifest-hosted.webapp](http://robnyman.github.io/Firefox-OS-Boilerplate-App/manifest-hosted.webapp)
+* [http://firegnu.github.io/Firefox-OS-Boilerplate-App/manifest-hosted.webapp](http://robnyman.github.io/Firefox-OS-Boilerplate-App/manifest-hosted.webapp)
 
 ## For Packaged Apps
 
