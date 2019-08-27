@@ -32,6 +32,7 @@
       "description": "Scheduling alarms"
     }
   },
+  "cursor": true,
   "locales": {
     "ar": {
       "name": "التطبيق المساعد لبدء التطوير لـFirefox OS",
